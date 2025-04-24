@@ -15,5 +15,7 @@ Track My Workout to aplikacja napisana w Pythonie, której celem jest śledzenie
 Wymagania:
 
 Python 3.x
+
 Pandas
+
 Tabulate
