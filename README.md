@@ -10,3 +10,10 @@ Track My Workout to aplikacja napisana w Pythonie, której celem jest śledzenie
 4. Sortowanie danych po dacie, ćwiczeniu, ciężarze, powtórzeniach lub tygodniach.
 5. Przechowywanie danych w pliku CSV.
 6. Wyświetlanie danych w estetycznej tabeli z użyciem biblioteki `tabulate`.
+
+
+Wymagania:
+
+Python 3.x
+Pandas
+Tabulate
