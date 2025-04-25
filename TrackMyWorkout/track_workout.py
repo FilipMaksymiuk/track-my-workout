@@ -1,4 +1,4 @@
-
+#Dodanie niezbędnych bibliotek
 import pandas as pd
 import os
 import datetime
