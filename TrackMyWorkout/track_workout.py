@@ -1,3 +1,4 @@
+#Program będzie stanowił doskonałe wsparcie dla osób lubiących śledzenie swoich postępów
 #Dodanie niezbędnych bibliotek
 import pandas as pd
 import os
