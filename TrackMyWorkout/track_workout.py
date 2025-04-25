@@ -1,7 +1,9 @@
+#Biblioteki potrzebne do działania programu
 import pandas as pd
 import os
 import datetime
 from tabulate import tabulate
+
 
 DATA_FILE = "treningi.csv"
 
