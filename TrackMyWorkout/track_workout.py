@@ -1,6 +1,4 @@
-#Program Pomaga w śledzeniu swojego progresu
-#Biblioteki potrzebne do poprawnego działania programu
-#
+
 import pandas as pd
 import os
 import datetime
