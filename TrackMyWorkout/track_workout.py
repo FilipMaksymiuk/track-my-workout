@@ -1,4 +1,4 @@
-#Biblioteki potrzebne do działania programu
+#Biblioteki potrzebne do poprawnego działania programu
 import pandas as pd
 import os
 import datetime
