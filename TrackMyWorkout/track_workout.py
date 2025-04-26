@@ -179,7 +179,8 @@ def show_sorted_data():
 
     print("Posortowane dane: ")
     print(tabulate(sorted_df, headers='keys', tablefmt='fancy_grid', showindex=False))
-
+    
+#nasze opcje
 if __name__ == "__main__":
     while True:
         print("\n=== TRACK MY WORKOUT ===")
